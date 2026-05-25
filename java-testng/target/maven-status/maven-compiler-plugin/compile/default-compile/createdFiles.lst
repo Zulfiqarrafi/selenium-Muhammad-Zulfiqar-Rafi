@@ -1,0 +1,6 @@
+com\juaracoding\App.class
+com\juaracoding\utils\Constants.class
+com\juaracoding\pages\LoginPage.class
+com\juaracoding\pages\InventoryPage.class
+com\juaracoding\namapeserta\drivers\DriverSingleton.class
+com\juaracoding\pages\CheckoutPage.class
